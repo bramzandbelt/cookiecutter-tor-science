@@ -2,9 +2,6 @@
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing Transparent, Open, and Reproducible scientific work._
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
-
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5
