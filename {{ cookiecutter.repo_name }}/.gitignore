@@ -69,5 +69,8 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
+# exclude data from version control by default
 /data/
+
+# exclude contextual docs from version control by default
+/docs/context/
