@@ -69,8 +69,11 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from version control by default
-/data/
+# MATLAB and MRI-related data
+*.mat *.nii *.img *.hdr
+
+# Comma- and tab-separated data
+*.csv *.tsv
 
 # exclude contextual docs from version control by default
 /docs/context/
